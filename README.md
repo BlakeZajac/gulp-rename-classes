@@ -18,6 +18,7 @@ Follow these steps to set up and run the project:
 
 Ensure your project directory is as follows.
 
+```bash
 ├── src/         # Source HTML files
 │   ├── index.html
 │   ├── other.html
@@ -26,6 +27,7 @@ Ensure your project directory is as follows.
 ├── gulpfile.js  # Gulp task configuration
 ├── package.json  # Project dependencies
 └── README.md    # This README file
+```
 
 ## Gulp Task
 
